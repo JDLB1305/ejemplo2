@@ -1,0 +1,23 @@
+
+
+ .contenedor{
+
+    background-color: blueviolet ;
+    height: 400px;
+    width: 50px;
+ 
+}
+
+#c1{
+
+    background-color: blue;
+}
+
+#c2{
+    background-color: rgb(227, 243, 4);
+}
+
+#c3{
+
+    background-color: blueviolet;
+}

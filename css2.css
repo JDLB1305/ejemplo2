@@ -1,0 +1,95 @@
+
+
+ #boton{
+    background-color: brown;
+}
+
+#lineas{
+    display: flex;
+    flex-direction: column;
+}
+
+.tabla{
+
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabla1{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container-fluid{
+
+    background-color: blueviolet;
+}
+
+.select{
+
+    width: 80px;
+}
+
+option{
+
+    background-color: blueviolet;
+}
+
+.btn-group{
+
+    width: 15px;
+}
+
+#boton{
+
+border-radius: 155px ;
+    background-color: rgb(235, 231, 35);
+}
+
+.dropdown-item{
+
+    background-color: aquamarine;
+}
+
+
+
+#drup2{
+
+    width: 20%;
+}
+
+#tema1{
+background-color: rgba(165, 42, 42,0.5);
+}
+
+#info{
+    background-color: aqua;
+    width: 50%;
+}
+#carouselExampleIndicators{
+    width: 50%;
+    height: 50px;
+}
+#rounded float-start{
+    width: 50%;
+}
+
+#row1{
+    width: 20%;
+}
+
+#row2{
+
+    color: rgb(66, 236, 14);
+    width: 50%;
+    margin: auto;
+}
+
+#row3{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
